@@ -1,4 +1,4 @@
-package presentation;
+package com.microboys.presentation;
 
 import javax.swing.*;
 import java.awt.*;

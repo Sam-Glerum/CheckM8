@@ -1,6 +1,6 @@
 package com.microboys;
 
-import presentation.ChessGUI;
+import com.microboys.presentation.ChessGUI;
 
 import javax.swing.*;
 
